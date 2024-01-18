@@ -1,5 +1,6 @@
 import { ServerRespond } from './DataStreamer';
 
+
 export interface Row {
   price_abc: number,
   price_def: number,
@@ -11,6 +12,8 @@ export interface Row {
 }
 
 
+class serverRespond {
+}
 
 export class DataManipulator {
   static generateRow(serverResponds: ServerRespond[]) Row {

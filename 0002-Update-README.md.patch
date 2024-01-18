@@ -1,0 +1,20 @@
+From d919c7c19bb53d74937553440f5a51c17ff236c4 Mon Sep 17 00:00:00 2001
+From: Josiah Chapman <35126739+josiahdc@users.noreply.github.com>
+Date: Tue, 2 Aug 2022 22:27:48 -0700
+Subject: [PATCH 2/7] Update README.md
+
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 1b118de..ece42e2 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,2 @@
+-# jpmc-task-3
++# JPMC Task 3
+ Starter repo for task 3 of JPMC's Forage program
+-- 
+2.41.0.windows.3
+
